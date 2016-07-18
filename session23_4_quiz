@@ -1,0 +1,31 @@
+Quiz
+
+1.assets precompile  can  
+a) minify / compress assets  --correct
+b) pipeline assets  
+c) destory assets  
+d) None  
+
+2.assets precompile  command  
+a) rake assets  
+b) rake assets:precompile  --correct
+c) rake assets:clear  
+d) none   
+
+3.Debugging can be done using  
+a) gems  
+b) Logger  
+c) view helpers  
+d) all the above --correct
+
+4.better_error is   
+a) error page 
+b) debugging gem  --correct
+c) error message  
+d) None  
+
+5.you can destroy created models/controllers using  
+a) rails destroy  --correct
+b) rails remove  
+c) rails uninstall  
+d) None  
